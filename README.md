@@ -1,2 +1,1 @@
-# rsschool-cv
-RSSchool tasks
+[CV](https://beskantry.github.io/rsschool-cv/cv)
