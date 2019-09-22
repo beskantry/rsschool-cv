@@ -31,4 +31,26 @@ I am engaged in self-development, currently studying at RSShool, where I expect 
 * Waterfall;
 * Agile (Scrum, Kanban).
 
+## Experience
+* Create and edit game levels;
+* Create character animation (using Blueprints).
+
+## Education
+### 2011-2013
+* Belarussian State University  
+Institute of Continuing Education  
+Bachelor’s degree in software engineering
+### 2005-2010
+* Belarussian State Technological University  
+Bachelor’s degree in publishing
+
+## Educational Courses
+### BIGsoft
+Java SE Course (2012)
+### Belarusian Chamber of Commerce and Industry
+English for Business Communication (2011)
+
+## Foreign Languages
+* English (Upper-Intermediate);
+* Spanish (Basic).
 
