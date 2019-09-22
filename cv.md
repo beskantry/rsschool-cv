@@ -12,3 +12,23 @@ I have an experience of participating in the VR-projects development as a Level 
 I've been interested in front-end recently. I am interested in this topic, and I would like to develop my skills in it and achieve good results. I plan to master the back-end as well in future, in order to be able to implement web applications in full cycle.
 I am engaged in self-development, currently studying at RSShool, where I expect to get practical experience in front-end.  
 
+## Technical skills
+### Programming:
+* C++ (Basic knowlewdge);
+* C# (Basic knowlewdge);
+* Java (Basic knowlewdge);
+* HTML/CSS/JavaScript (Basic knowlewdge);
+### Development:
+* .NET;
+* Eclipse;
+* VS Code;
+* UE4;
+### Databases:
+* MySQL;
+### Version Control:
+* GIT;
+### Methodologies:
+* Waterfall;
+* Agile (Scrum, Kanban).
+
+
